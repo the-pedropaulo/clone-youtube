@@ -1,0 +1,11 @@
+.grow {
+    flex-grow: 1;
+}
+
+.logo {
+    height: 30px;
+}
+
+.font {
+    font-size: 14px;
+}
