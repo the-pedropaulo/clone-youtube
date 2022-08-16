@@ -1,3 +1,3 @@
-# react-unit-tests
+# Clone Youtube
 
-Repositório de estudo sobre aplicação testes unitários no front-end
+Clone do Youtube usando a biblioteca Material UI
