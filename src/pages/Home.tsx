@@ -249,7 +249,7 @@ function Home({zIndex, color_bg, color_bg2, darkMode, ChangeDarkMode}: Props) {
                                                     variant="body2"
                                                     color="textSecondary"
                                                 >
-                                                    {video.channel}
+                                                    Canal de Programação
                                                 </Typography>
                                                 <Typography
                                                     variant="body2"
